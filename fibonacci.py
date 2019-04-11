@@ -10,4 +10,4 @@ def fibonacci(n):
         b = a-b
         if a % 2 == 0 :
             print(a)
-fibonacci(n)
+fibonacci(n) #ljaslalblbbalba
